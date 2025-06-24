@@ -1,4 +1,4 @@
-# 🗣Speech Command Classification
+# Speech Command Classification
 
 This project explores the effectiveness of different deep learning architectures for speech command classification. We compare a standard ResNet-18 model, its variant enhanced with silence detection, and the transformer-based Wav2Vec2.0 model.
 
